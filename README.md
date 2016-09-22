@@ -20,7 +20,7 @@ by Clojure and Scala, minimizing the need to copy or cache data.
 chaining of collection methods like `map` and `filter` without creating
 intermediate representations. Create some `Seq` with `Range` and `Repeat`.
 
-Want to hear more? Watch the presentation about Immutable.js:
+Want to hear more? [Watch](https://www.youtube.com/watch?v=I7IdS-PbEgI) the presentation about Immutable.js:
 
 <a href="https://youtu.be/I7IdS-PbEgI" target="_blank" alt="Immutable Data and React"><img src="https://img.youtube.com/vi/I7IdS-PbEgI/0.jpg" /></a>
 
